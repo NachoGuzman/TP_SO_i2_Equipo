@@ -1,0 +1,5 @@
+Augusto Roman BETA
+A)Hay un boton en github que es syncFork.
+B)Si, Se puede.
+C)Si, Se puede.
+D)No, no se pierden porque quedan en otra version.
