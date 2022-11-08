@@ -3,3 +3,29 @@ A)Hay un boton en github que es syncFork.
 B)Si, Se puede.
 C)Si, Se puede.
 D)No, no se pierden porque quedan en otra version.
+Ignacio Guzman ALFA
+E)
+ALFA:
+git clone https://github.com/NachoGuzman/TP_SO_i2_Equipo.git
+git add .
+git commit
+git push (datos)
+
+
+git pull
+git add .
+git commit (respuesta)
+git push
+
+BETA:
+git clone https://github.com/AugustoRoman24/TP_SO_i2_Equipo.git
+git add .
+git commit
+git push (datos)
+
+
+git pull
+git add .
+git commit (respuesta)
+git push
+
